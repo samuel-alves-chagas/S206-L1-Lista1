@@ -4,7 +4,7 @@
 - Curso: Engenharia de Software Laboratório.
 - Monitor: Antônio Victor
 
-Para poder executar os testes siga os comandos abaixo:
+O projeto visa testar o site automationpractice.com e navegar por ele como um usuário padrão faria, para poder executar os testes siga os comandos abaixo:
 
 ```
 Clone o projeto na sua máquina local
